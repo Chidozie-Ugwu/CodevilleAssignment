@@ -1,0 +1,35 @@
+.fle-container{
+    border: 1px solid rgb(106, 61, 3);
+    display: flex;
+    font-size: 120px;
+
+}
+.Me{
+    border: 1px solid blue;
+    height: 200px;
+    width: 200px;
+}
+.u{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+.i{
+    border: 1px solid rgb(2, 2, 37);
+    height: 200px;
+    width: 200px;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid red;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    }
+    .item{
+     height: 200px;
+     width: 250px;
+    border: 1px solid blue;
+    margin: 10px;
+    }
